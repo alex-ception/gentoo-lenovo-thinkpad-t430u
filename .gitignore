@@ -25,9 +25,7 @@
 !etc/conf.d/hostname
 !etc/conf.d/net
 
-#KERNEL CONFIG
-!usr/
-!usr/src/
-!usr/src/linux/
-!usr/src/linux/.config
+!etc/kernel/
+!etc/kernel/config/
+
 
