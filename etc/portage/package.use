@@ -1,0 +1,7 @@
+app-editors/vim -X
+app-text/ghostscript-gpl -cups
+=app-text/ghostscript-gpl-9.10-r2 cups
+dev-db/mysql -perl
+dev-lang/php apache2 curl gd intl -ldap mysqli pdo sockets sqlite
+dev-vcs/git -perl -python
+www-servers/apache -dav -dav_fs -dav_lock -ldap

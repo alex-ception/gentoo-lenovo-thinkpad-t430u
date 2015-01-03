@@ -1,0 +1,2 @@
+dns_domain_lo="creakiwi.com"
+config_eth0=("dhcp")
