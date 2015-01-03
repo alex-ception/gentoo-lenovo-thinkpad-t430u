@@ -4,4 +4,6 @@ app-text/ghostscript-gpl -cups
 dev-db/mysql -perl
 dev-lang/php apache2 curl gd intl -ldap mysqli pdo sockets sqlite
 dev-vcs/git -perl -python
+www-client/links -jpeg -tiff -X
 www-servers/apache -dav -dav_fs -dav_lock -ldap
+x11-terms/rxvt-unicode -font-styles -perl

@@ -9,7 +9,7 @@ keymap="fr"
 windowkeys="YES"
 
 # The maps to load for extended keyboards.  Most users will leave this as is.
-extended_keymaps="backspace eurà2"
+extended_keymaps="backspace euro2"
 #extended_keymaps="backspace keypad euro2"
 
 # Tell dumpkeys(1) to interpret character action codes to be
