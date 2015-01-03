@@ -27,5 +27,4 @@
 
 !etc/kernel/
 !etc/kernel/config/
-
-
+!etc/kernel/config/*
