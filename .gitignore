@@ -1,5 +1,3 @@
-*
-
 #GIT RELATED
 !.gitignore
 !.git/
@@ -25,3 +23,7 @@
 
 #KERNEL CONFIG
 !usr/src/linux/.config
+
+#IGNORE ANYTHING ELSE
+*
+
