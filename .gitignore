@@ -1,0 +1,27 @@
+*
+
+#GIT RELATED
+!/.gitignore
+!/.git/
+
+#PORTAGE
+!/etc/portage/make.conf
+!/etc/portage/package.accept_keywords
+!/etc/portage/package.license
+!/etc/portage/package.use
+
+#ETC
+!/etc/hosts
+!/etc/rc.conf
+!/etc/resolv.conf
+!/etc/locale.gen
+!/etc/fstab
+
+#CONF.D
+!/etc/conf.d/hwclock
+!/etc/conf.d/keymaps
+!/etc/conf.d/hostname
+!/etc/conf.d/net
+
+#KERNEL CONFIG
+!/usr/src/linux/.config
